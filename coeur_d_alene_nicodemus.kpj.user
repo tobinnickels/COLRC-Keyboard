@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\coeur_d_alene_nicodemus.kpj</path>
+    <file ID="id_9cdd83e4659fa5147177b15a61af1a73" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_578e155eadb5fb15a724cb189e5c087b</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\coeur_d_alene_nicodemus.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_9cdd83e4659fa5147177b15a61af1a73</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\coeur_d_alene_nicodemus.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8333ce00c214e825fa73f88ee59bc95d</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\coeur_d_alene_nicodemus.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c7ef06e054909a359c280db8223d8d71</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\..\build\coeur_d_alene_nicodemus.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f4fcadd64988503b0e0889cb04e8a34e</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\..\build\coeur_d_alene_nicodemus.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d12b222bde263ac847be61f0e32495ae</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\..\build\coeur_d_alene_nicodemus.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>coeur_d_alene_nicodemus.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\coeur_d_alene_nicodemus.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>coeur_d_alene_nicodemus.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Tobin\Documents\Keyman Developer\Projects\coeur_d_alene_nicodemus\source\coeur_d_alene_nicodemus.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

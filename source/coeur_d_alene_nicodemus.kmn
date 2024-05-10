@@ -1,0 +1,55 @@
+﻿store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
+store(&LAYOUTFILE) 'coeur_d_alene_nicodemus.keyman-touch-layout'
+begin Unicode > use(main)
+
+group(main) using keys
++ [SHIFT ALT K_L] > 'ƚ'
++ [K_U] > 'u'
++ [ALT K_0] > '(w'
++ [SHIFT ALT K_0] > U+0027 '(w'
++ [SHIFT ALT K_9] > U+0027 '('
++ [SHIFT ALT K_W] > 'qhw'
++ [SHIFT ALT K_Q] > 'qh'
++ [ALT K_H] > 'khw'
++ [SHIFT K_H] > 'kh'
++ [SHIFT K_K] > 'k' U+0027 'w'
++ [K_K] > 'kw'
++ [SHIFT K_X] > 'ts' U+0027
++ [K_X] > 'ts'
++ [SHIFT K_N] > U+0027 'n'
++ [K_N] > 'n'
++ [K_J] > 'j'
++ [SHIFT K_W] > U+0027 'w'
++ [K_W] > 'w'
++ [SHIFT K_U] > 'u̱'
++ [SHIFT K_T] > 't' U+0027
++ [K_T] > 't'
++ [SHIFT K_Y] > U+0027 'y'
++ [K_Y] > 'y'
++ [SHIFT K_S] > 'sh'
++ [K_S] > 's'
++ [K_R] > 'r'
++ [SHIFT K_R] > U+0027 'r'
++ [SHIFT K_P] > 'p' U+0027
++ [K_P] > 'p'
++ [K_O] > 'o'
++ [SHIFT K_O] > 'o̱'
++ [SHIFT K_M] > U+0027 'm'
++ [K_M] > 'm'
++ [SHIFT K_Q] > 'q' U+0027
++ [K_Q] > 'q'
++ [K_G] > 'gw'
++ [SHIFT K_I] > 'i̱'
++ [K_I] > 'i'
++ [K_H] > 'h'
++ [SHIFT K_E] > 'e̱'
++ [K_E] > 'e'
++ [K_D] > 'd'
++ [K_C] > 'ch'
++ [SHIFT K_C] > 'ch' U+0027
++ [SHIFT K_B] > 'b'
++ [SHIFT K_A] > 'a̱'
++ [K_A] > 'a'
++ [SHIFT K_L] > 'l' U+0027
++ [K_L] > 'l'
+
